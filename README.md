@@ -1,1 +1,1 @@
-Projeto básico de JAva
+Projeto básico de JAVA
